@@ -1,4 +1,4 @@
-baseurl = "http://extendedxmlserializer.github.io/"
+baseurl = "https://extendedxmlserializer.github.io/ExtendedXmlSerializer/"
 title = "ExtendedXmlSerializer"
 theme = "ExtendedXmlSerializerTheme"
 publishDir = "docs"
