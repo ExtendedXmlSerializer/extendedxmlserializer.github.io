@@ -1,0 +1,32 @@
+{{ if isset .Site.Params "carousel" }}
+{{ if .Site.Params.carousel.enable }}
+<section>
+    <div class="home-carousel">
+	<div class="container">
+
+		<div class="row text-center" style="margin-top: 26px">
+			<div>
+				<img class="logo" src="/img/logoBig.png" alt="ExtendedXmlSerializer logo" class="img-responsive center-block">
+			</div>
+		</div>
+		<div class="row text-center" style="margin-top: 26px; margin-bottom: 26px">
+			<a class="btn-primary btn btn-lg" href="http://extendedxmlserializer.readthedocs.io/en/latest/">
+				Docs <i class="fa fa-book" aria-hidden="true"></i>
+			</a>
+			<a class="btn-success btn btn-lg" href="https://www.nuget.org/packages/ExtendedXmlSerializer/">
+				Install <i class="fa fa-cogs" aria-hidden="true"></i>
+			</a>
+			<a class="btn-info btn btn-lg" href="https://github.com/wojtpl2/ExtendedXmlSerializer">
+				GitHub <i class="fa fa-github" aria-hidden="true"></i>
+			</a>
+			<a class="btn-default btn btn-lg" href="https://github.com/wojtpl2/ExtendedXmlSerializer/blob/master/Licence">
+				MIT Licence <i class="fa fa-id-card-o" aria-hidden="true"></i>
+			</a>
+		</div>
+		
+	</div>
+	</div>
+ 
+</section>
+{{ end }}
+{{ end }}
