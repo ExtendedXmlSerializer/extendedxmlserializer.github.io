@@ -1,0 +1,4 @@
+weight: 1
+name: "Serialize everything"
+icon: "fa fa-code"
+description: "ExtendedXmlSerializer support serialization of Dictionaries and property interface and much more!"

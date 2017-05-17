@@ -1,7 +1,7 @@
-baseurl = "https://extendedxmlserializer.github.io/ExtendedXmlSerializer/"
+baseurl = "http://extendedxmlserializer.github.io/"
 title = "ExtendedXmlSerializer"
 theme = "ExtendedXmlSerializerTheme"
-publishDir = "../."
+publishDir = "../"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
