@@ -1,0 +1,4 @@
+weight: 2
+name: "Configurable"
+icon: "fa fa-cogs"
+description: "You can configure ExtendedXmlSerializer "
